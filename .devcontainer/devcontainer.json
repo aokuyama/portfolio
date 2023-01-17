@@ -4,7 +4,7 @@
   "workspaceFolder": "/workspace",
   "customizations": {
     "vscode": {
-      "extensions": []
+      "extensions": ["styled-components.vscode-styled-components"]
     }
   }
 }
