@@ -1,6 +1,6 @@
 import React from "react";
 import { Global } from "@emotion/react";
-import { global } from "ui/styles/global";
+import { global } from "ui/src/styles/global";
 
 const globalStyles = <Global styles={global} />;
 

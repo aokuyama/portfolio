@@ -1,5 +1,13 @@
 import { FC } from "react";
+import { Container } from "ui/src/components/Container";
+import { Section } from "ui/src/components/Section";
+import { SectionTitle } from "ui/src/components/SectionTitle";
 
 export const Contact: FC = () => {
-  return <>contact</>;
+  return (
+    <Section>
+      <SectionTitle>contact</SectionTitle>
+      <Container>coming soon</Container>
+    </Section>
+  );
 };
