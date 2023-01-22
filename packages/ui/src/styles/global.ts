@@ -2,5 +2,7 @@ import { css } from "@emotion/react";
 import "@acab/reset.css";
 
 export const global = css`
-  color: #333;
+  * {
+    color: #333;
+  }
 `;
